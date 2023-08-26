@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Temporarily unavailable'
+    return 'why did u search up this website?'
