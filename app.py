@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Temporarily unavailable'
+    return '0ad is the best game ever created!'
